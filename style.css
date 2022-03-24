@@ -192,10 +192,7 @@ a:hover {
     border-color: rgba(0, 0, 0, .3);
 }
 
-.d-bloc .panel,
-.l-bloc {
-    color: rgba(0, 0, 0, .5);
-}
+
 
 .d-bloc .panel button:hover,
 .l-bloc button:hover {
@@ -650,8 +647,8 @@ label,
 .btn,
 a {
     font-family: "helvetica";
-    font-weight: 400;
-    color: #575757!important;
+    font-weight: 600;
+    color: #364577;
 }
 
 .container {
